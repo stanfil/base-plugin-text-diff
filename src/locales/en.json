@@ -1,0 +1,11 @@
+{
+  "title": "Text Visualization Comparison",
+  "step1": "Select a data table",
+  "step2": "Select two text fields to compare",
+  "step3": "Select a record in the left data table that you want to compare",
+  "selectTable": "Select Data Table",
+  "selectField": "Select Date of Birth Field",
+  "textField": "Select a Text Field (Left)",
+  "textField2": "Select a Comparison Text Field (Right)",
+  "diffResult": "The comparison result is as follows"
+}
